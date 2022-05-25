@@ -1,4 +1,7 @@
 
+PAGES:
+https://laucasdu.github.io/KATAS/
+
 FIZZBUZZ
 
 - Para múltiplos de tres, devuelva una string: `Fizz`
