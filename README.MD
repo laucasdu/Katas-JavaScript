@@ -1,7 +1,4 @@
 
-PAGES:
-https://laucasdu.github.io/KATAS/
-
 FIZZBUZZ
 
 - Para múltiplos de tres, devuelva una string: `Fizz`
@@ -31,4 +28,4 @@ NUMARRAY
 ADULTUSERS
 
 - Escribe una función que reciba un array de objetos ‘usuario’ que tenga el nombre y la edad:
-    - la función debe devolver otro array con los usuarios mayores de edad
+    - la función debe devolver otro array con los usuarios mayores de edad# Katas
